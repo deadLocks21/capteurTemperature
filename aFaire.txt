@@ -1,0 +1,3 @@
+Etablir un réel glossaire de toutes mes variables.
+Ecrire des sous fonction en binaire.
+Mettre le tout bout à bout.
