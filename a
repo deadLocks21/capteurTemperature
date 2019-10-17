@@ -1,0 +1,18 @@
+1-4 Stocker T
+5-9 div5
+10-14 div180
+15-19 div5-div180
+20-21
+19-22 x
+26-54 condition jusqu'a fin feuille
+55-59 a (23, 33)
+60-64 b
+65-69 c
+70-74 d
+75-79 e
+80-84 f
+85-89 Si x = 0
+
+Ajout 
+E4 60
+51 CF
